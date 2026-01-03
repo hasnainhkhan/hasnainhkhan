@@ -86,7 +86,7 @@ Worked on **real production projects** as a backend developer. My responsibiliti
 
 ## 🐍 Contribution Snake
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/hasnainhkhan/hasnainhkhan/main/dist/snake.svg)
+![GitHub Snake Animation](https://github.com/hasnainhkhan/hasnainhkhan/blob/main/snake.svg)
 
 ---
 
