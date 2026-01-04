@@ -4,13 +4,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Java+%26+Spring+Boot+Enthusiast;B.Tech+Graduate+2025;Production+Ready+Backend+Engineer&center=true&width=700&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Java+%26+Spring+Boot+Enthusiast;B.Tech+Graduate+2025;Production+Ready+Engineer&center=true&width=750&height=45">
 </p>
 
 ---
 
-## 💫 About Me
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=90&text=About%20Me&fontSize=30&fontColor=ffffff"/>
 
 Hi there! 👋  
 I’m **Hasnain Haidar**, a **B.Tech graduate (2025)** with a strong passion for **backend development and software engineering**.
@@ -18,29 +17,28 @@ I’m **Hasnain Haidar**, a **B.Tech graduate (2025)** with a strong passion for
 - 💻 Build **scalable backend systems**
 - 🛠️ Debug **real production issues**
 - ☁️ Work with **Java, Spring Boot & Cloud**
+- 🚀 Always improving backend architecture skills
 
 ---
 
-## 🎓 Education
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=90&text=Education&fontSize=30&fontColor=ffffff"/>
 
-- **B.Tech** – Graduated in **2025**
+🎓 **B.Tech** – Graduated in **2025**
 
 ---
 
-## 💼 Internship Experience
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=90&text=Internship%20Experience&fontSize=30&fontColor=ffffff"/>
 
 ### 🏢 Backend Developer Intern — **PearlThoughts**
 📅 **4 Nov 2025 – 28 Dec 2025**
 
-- 🔹 Custom **Session Module**
+- 🔹 Developed **Custom Session Module**
 - 🔹 Session storage using **AWS DynamoDB**
 - 🔹 Fixed **WhatsApp notification flows**
   - Address enquiry
   - Appointment booking
   - Leave apply & cancellation
-- 🔹 Solved **undefined location/area issues**
+- 🔹 Solved **undefined location / area issues**
 - 🔹 Worked with **PostgreSQL & DynamoDB**
 - 🔹 Debugged **production backend bugs**
 - 🔹 Worked on **Schedula Backend Project**
@@ -48,8 +46,7 @@ I’m **Hasnain Haidar**, a **B.Tech graduate (2025)** with a strong passion for
 
 ---
 
-## 🧠 Skills & Learning
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=90&text=Skills%20%26%20Learning&fontSize=30&fontColor=ffffff"/>
 
 ### 🚀 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -74,16 +71,15 @@ I’m **Hasnain Haidar**, a **B.Tech graduate (2025)** with a strong passion for
 
 ---
 
-## 🌐 Connect With Me
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=90&text=Connect%20With%20Me&fontSize=30&fontColor=ffffff"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasnain-haidar-a6311b22a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hasnain__71)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasnainhkhan)
 
 ---
 
-## 📊 GitHub Stats
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=90&text=GitHub%20Stats&fontSize=30&fontColor=ffffff"/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hasnainhkhan&show_icons=true&theme=dark" />
@@ -96,15 +92,13 @@ I’m **Hasnain Haidar**, a **B.Tech graduate (2025)** with a strong passion for
 
 ---
 
-## 🐍 Contribution Snake
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=90&text=Contributions&fontSize=30&fontColor=ffffff"/>
 
 ![Snake animation](https://github.com/hasnainhkhan/hasnainhkhan/blob/main/snake.svg)
 
 ---
 
-## 👀 Profile Views
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=90&text=Profile%20Views&fontSize=30&fontColor=ffffff"/>
 
 [![](https://visitcount.itsvg.in/api?id=hasnainhkhan&icon=2&color=3)](https://visitcount.itsvg.in)
 
