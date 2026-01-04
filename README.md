@@ -54,17 +54,17 @@ I enjoy working close to **real production systems**, fixing bugs that matter, a
 ### 💻 Tech Stack
 
 #### Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-white?style=for-the-badge&logo=spring)
+![Java](https://img.shields.io/badge/Java-22C55E?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-22C55E?style=for-the-badge&logo=spring&logoColor=white)
 
 #### Cloud & Databases
-![AWS](https://img.shields.io/badge/AWS-white?style=for-the-badge&logo=amazonaws)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-white?style=for-the-badge&logo=amazon-dynamodb)
+![AWS](https://img.shields.io/badge/AWS-22C55E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-22C55E?style=for-the-badge&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-22C55E?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 
 #### Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-22C55E?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-22C55E?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -93,10 +93,10 @@ I enjoy working close to **real production systems**, fixing bugs that matter, a
 
 <p align="center">
   <a href="mailto:hhk2170@gmail.com">
-    <img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/hasnainhkhan">
-    <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-22C55E?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
