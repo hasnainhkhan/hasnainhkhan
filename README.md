@@ -1,95 +1,91 @@
-# 💫 About Me
+# 👋 Hi, I'm Hasnain Haidar
 
-Hi there! 👋  
-I’m **Hasnain Haidar**, a **B.Tech graduate (2025)** with a strong passion for **backend development and software engineering**. I enjoy building scalable, efficient applications and working on real-world production systems.
+🚀 **Backend Developer | Java & Spring Boot Enthusiast | B.Tech 2025**
 
-I’m constantly learning new technologies, especially in the **Java & Spring ecosystem**, and I love contributing to meaningful projects.
+I love building **scalable backend systems**, fixing **real production bugs**, and working with **cloud & databases**.  
+Currently focused on **Java, Spring Boot, AWS, and backend architecture**.
 
 ---
 
-## 🎓 Education
-- **B.Tech** – Graduated in **2025**
+## 💫 About Me
+
+- 🎓 **B.Tech Graduate (2025)**
+- 💻 Passionate about **Backend Development**
+- 🛠️ Strong in **debugging real-world production issues**
+- 🌱 Currently learning **Advanced Spring Boot & Spring Security**
+- ☁️ Working with **AWS, DynamoDB, PostgreSQL**
 
 ---
 
 ## 💼 Internship Experience
 
-### **Backend Developer Intern**  
-**PearlThoughts**  
-📅 **4 Nov 2025 – 28 Dec 2025**
+### 🏢 Backend Developer Intern — **PearlThoughts**
+📅 **Nov 4, 2025 – Dec 28, 2025**
 
-Worked on **real production projects** as a backend developer. My responsibilities included:
-
-- 🔹 **Custom Session module**
-  - Session modification logic
-  - Saving and managing session data in **AWS DynamoDB**
-
-- 🔹 **WhatsApp Notification Fixes**
-  - Address enquiry message handling
-  - Fixed **undefined location/area issues** in WhatsApp messages
-  - Appointment booking notifications
-  - Leave apply & cancellation message flows
-
-- 🔹 **Database & Backend Work**
-  - DynamoDB operations
-  - PostgreSQL integration
-  - Debugging production issues
-  - Improving message templates and data consistency
-
-- 🔹 **Project Exposure**
-  - Worked on the **Schedula** backend project
-  - Hosted project on **Render.com**
-  - Used **PostgreSQL** as the database
+- ✅ Built **Custom Session Module**
+- ✅ Stored & managed sessions using **AWS DynamoDB**
+- ✅ Fixed **WhatsApp notification flows**
+  - Address enquiry
+  - Appointment booking
+  - Leave apply & cancellation
+- ✅ Solved **undefined location / area issues**
+- ✅ Worked with **PostgreSQL & DynamoDB**
+- ✅ Debugged **production-level backend bugs**
+- ✅ Worked on **Schedula Backend Project**
+- ✅ Backend hosted on **Render.com**
 
 ---
 
-## 🧠 Skills & Learning
+## 🧠 Tech Stack
 
-- **Languages:** Java, Python  
-- **Frameworks:** Spring Boot, Spring Security, Django  
-- **Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB  
-- **Cloud & Tools:** AWS, Azure, GitHub, Docker (learning)  
-- **Currently Learning:**  
-  - Advanced **Spring Boot & Spring Security**  
-  - Backend architecture & real-world debugging  
+### 👨‍💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
----
+### ⚙️ Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-## 🌐 Socials
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hasnain__71)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasnain-haidar-a6311b22a/)
-
----
-
-## 💻 Tech Stack
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/spring%20security-%236DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### ☁️ Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect With Me
 
-![](https://github-readme-stats.vercel.app/api?username=hasnainhkhan&theme=dark&hide_border=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=hasnainhkhan&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainhkhan&theme=dark&layout=compact)
-
----
-
-## 🐍 Contribution Snake
-
-![GitHub Snake Animation](https://github.com/hasnainhkhan/hasnainhkhan/blob/main/snake.svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasnain-haidar-a6311b22a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hasnain__71)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasnainhkhan)
 
 ---
 
+## 📊 GitHub Stats (Live)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=hasnainhkhan&show_icons=true&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasnainhkhan&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainhkhan&layout=compact&theme=dark)
+
+---
+
+## 🐍 Contribution Snake (Auto Update)
+
+![Snake animation](https://github.com/hasnainhkhan/hasnainhkhan/blob/main/snake.svg)
+
+---
+
+## 👀 Profile Views
 [![](https://visitcount.itsvg.in/api?id=hasnainhkhan&icon=2&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM -->
+---
+
+⭐ *Focused on backend excellence & real-world problem solving*
