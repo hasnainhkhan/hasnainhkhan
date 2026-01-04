@@ -1,92 +1,110 @@
-<!-- 🌌 Animated Gradient Header -->
+<!-- 🌌 HERO SECTION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=240&text=Hasnain%20Haidar&fontSize=48&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=260&text=Hasnain%20Haidar&fontSize=52&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Java+%26+Spring+Boot;Cloud+%26+Databases;Production+Ready+Engineer;Always+Learning&center=true&width=800&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Engineer;Java+%26+Spring+Boot;Production+Bug+Fixer;Cloud+Ready+Developer;Always+Learning&center=true&width=900&height=55">
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212897287-5e5d1f7a-07c1-4a6f-8b79-35dc1c8b2c92.gif" width="120"/>
+  <img src="https://komarev.com/ghpvc/?username=hasnainhkhan&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=95&text=About%20Me&fontSize=32&fontColor=ffffff"/>
+## 👨‍💻 About Me
 
-Hi 👋 I’m **Hasnain Haidar**, a **B.Tech graduate (2025)** passionate about **backend development & software engineering**.
+Hi 👋 I’m **Hasnain Haidar**, a **B.Tech graduate (2025)** and a **backend-focused software engineer**.
 
-- 🚀 Build **scalable backend systems**
-- 🛠️ Fix **real production bugs**
-- ☁️ Java • Spring Boot • Cloud
-- 🧠 Strong debugging mindset
+I enjoy working close to **real production systems**, fixing bugs that matter, and building **scalable backend services**.
 
----
+- 🔹 Backend Engineer (Java & Spring Boot)
+- 🔹 Strong debugging & issue-analysis mindset
+- 🔹 Hands-on with **production databases**
+- 🔹 Cloud-aware (AWS, DynamoDB, PostgreSQL)
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=95&text=Education&fontSize=32&fontColor=ffffff"/>
-
-🎓 **B.Tech** – Graduated in **2025**
+> 💡 *“Backend is not just code — it’s responsibility.”*
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=95&text=Internship%20Experience&fontSize=32&fontColor=ffffff"/>
+## 🎓 Education
+
+**B.Tech** — *Graduated in 2025*
+
+---
+
+## 🧑‍💼 Internship Experience
 
 ### 🏢 Backend Developer Intern — **PearlThoughts**
-📅 **Nov 4, 2025 – Dec 28, 2025**
+📅 **Nov 2025 – Dec 2025**
 
-- 🔹 Custom Session Module (AWS DynamoDB)
-- 🔹 WhatsApp notification fixes
-- 🔹 Address / appointment / leave flows
-- 🔹 PostgreSQL + DynamoDB
-- 🔹 Production bug fixing
-- 🔹 **Schedula Backend Project**
-- 🔹 Hosted on **Render.com**
+**Worked on real production backend systems**
+
+- ✅ Designed **Custom Session Module** using **AWS DynamoDB**
+- ✅ Fixed **WhatsApp notification failures**
+- ✅ Improved **appointment, leave & address workflows**
+- ✅ Worked with **PostgreSQL + DynamoDB**
+- ✅ Debugged & resolved **production issues**
+- ✅ Contributed to **Schedula Backend Project**
+- ✅ Application hosted on **Render**
+
+🛠️ *Learned how real backend systems behave under production constraints.*
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=95&text=Skills%20%26%20Tech&fontSize=32&fontColor=ffffff"/>
+## ⚙️ Tech Stack
 
-### 💻 Tech Stack
+### 💻 Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring)
+
+### ☁️ Cloud & Databases
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb)
+
+### 🔧 Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=95&text=GitHub%20Stats&fontSize=32&fontColor=ffffff"/>
+## 📊 GitHub Analytics (Live)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasnainhkhan&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainhkhan&theme=radical"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hasnainhkhan&show_icons=true&theme=radical"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainhkhan&theme=radical"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainhkhan&layout=compact&theme=radical"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainhkhan&layout=compact&theme=radical"/>
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=95&text=Contribution%20Graph&fontSize=32&fontColor=ffffff"/>
+## 🐍 Contribution Activity
 
-![Snake animation](https://github.com/hasnainhkhan/hasnainhkhan/blob/main/snake.svg)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=95&text=Profile%20Views&fontSize=32&fontColor=ffffff"/>
-
-[![](https://visitcount.itsvg.in/api?id=hasnainhkhan&icon=5&color=12)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github.com/hasnainhkhan/hasnainhkhan/blob/main/snake.svg" />
+</p>
 
 ---
 
-<!-- 🌊 Animated Footer -->
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/hasnainhkhan">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:hhk2170@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<!-- 🌊 FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=170&section=footer"/>
-</p>
-
-<p align="center">
-  ✨ <b>“Backend is not just code — it’s responsibility.”</b> ✨
 </p>
