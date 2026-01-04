@@ -13,7 +13,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=22C55E&height=95&text=About%20Me&fontSize=32&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=22C55E&height=80&text=About%20Me&fontSize=32&fontColor=ffffff"/>
 
 Hi 👋 I’m **Hasnain Haidar**, a **B.Tech graduate (2025)** and a **backend-focused software engineer**.
 
@@ -34,7 +34,7 @@ I enjoy working close to **real production systems**, fixing bugs that matter, a
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=22C55E&height=95&text=Internship%20Experience&fontSize=32&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=22C55E&height=80&text=Internship%20Experience&fontSize=32&fontColor=ffffff"/>
 
 ### 🏢 Backend Developer Intern — **PearlThoughts**
 📅 **Nov 2025 – Dec 2025**
@@ -48,8 +48,7 @@ I enjoy working close to **real production systems**, fixing bugs that matter, a
 - ✅ Application hosted on **Render**
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=22C55E&height=95&text=Skills%20%26%20Tech&fontSize=32&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=22C55E&height=80&text=Skills%20Tech&fontSize=32&fontColor=ffffff"/>
 ### 💻 Tech Stack
 
 #### Languages & Frameworks
