@@ -49,7 +49,7 @@ I enjoy working close to **real production systems**, fixing bugs that matter, a
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=22C55E&height=95&textSkills%20%26%20Tech&fontSize=32&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=22C55E&height=95&text=Skills%20%26%20Tech&fontSize=32&fontColor=ffffff"/>
 ### 💻 Tech Stack
 
 #### Languages & Frameworks
