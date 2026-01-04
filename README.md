@@ -1,42 +1,46 @@
-<!-- Dynamic Header -->
+<!-- 🌊 Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Hasnain%20Haidar&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=Hasnain%20Haidar&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Java+%26+Spring+Boot+Enthusiast;B.Tech+Graduate+2025;Real+World+Production+Experience&center=true&width=650&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;Java+%26+Spring+Boot+Enthusiast;B.Tech+Graduate+2025;Production+Ready+Backend+Engineer&center=true&width=700&height=45">
 </p>
 
 ---
 
 ## 💫 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 Hi there! 👋  
 I’m **Hasnain Haidar**, a **B.Tech graduate (2025)** with a strong passion for **backend development and software engineering**.
 
-💻 I enjoy building **scalable backend systems**  
-🛠️ Debugging **real production issues**  
-☁️ Working with **Java, Spring Boot & Cloud technologies**
+- 💻 Build **scalable backend systems**
+- 🛠️ Debug **real production issues**
+- ☁️ Work with **Java, Spring Boot & Cloud**
 
 ---
 
 ## 🎓 Education
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
 - **B.Tech** – Graduated in **2025**
 
 ---
 
 ## 💼 Internship Experience
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 ### 🏢 Backend Developer Intern — **PearlThoughts**
 📅 **4 Nov 2025 – 28 Dec 2025**
 
-- 🔹 Developed **Custom Session Module**
-- 🔹 Stored & managed session data using **AWS DynamoDB**
+- 🔹 Custom **Session Module**
+- 🔹 Session storage using **AWS DynamoDB**
 - 🔹 Fixed **WhatsApp notification flows**
   - Address enquiry
   - Appointment booking
   - Leave apply & cancellation
-- 🔹 Solved **undefined location / area issues**
+- 🔹 Solved **undefined location/area issues**
 - 🔹 Worked with **PostgreSQL & DynamoDB**
 - 🔹 Debugged **production backend bugs**
 - 🔹 Worked on **Schedula Backend Project**
@@ -45,6 +49,7 @@ I’m **Hasnain Haidar**, a **B.Tech graduate (2025)** with a strong passion for
 ---
 
 ## 🧠 Skills & Learning
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 ### 🚀 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -70,13 +75,15 @@ I’m **Hasnain Haidar**, a **B.Tech graduate (2025)** with a strong passion for
 ---
 
 ## 🌐 Connect With Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasnain-haidar-a6311b22a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hasnain__71)
 
 ---
 
-## 📊 GitHub Stats (Live)
+## 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hasnainhkhan&show_icons=true&theme=dark" />
@@ -89,15 +96,25 @@ I’m **Hasnain Haidar**, a **B.Tech graduate (2025)** with a strong passion for
 
 ---
 
-## 🐍 Contribution Snake (Dynamic)
+## 🐍 Contribution Snake
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 ![Snake animation](https://github.com/hasnainhkhan/hasnainhkhan/blob/main/snake.svg)
 
 ---
 
 ## 👀 Profile Views
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+
 [![](https://visitcount.itsvg.in/api?id=hasnainhkhan&icon=2&color=3)](https://visitcount.itsvg.in)
 
 ---
 
-⭐ *Backend-focused • Production-ready • Always learning*
+<!-- 🌊 Animated Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=160&section=footer"/>
+</p>
+
+<p align="center">
+  ⭐ <i>“Build backend systems that survive production.”</i> ⭐
+</p>
