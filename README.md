@@ -1,142 +1,214 @@
-<!-- 🌌 HERO SECTION -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e3a8a&height=160&text=Hasnain%20Haidar&fontSize=52&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=1e3a8a&lines=Backend+Engineer;Java+%26+Spring+Boot;Production+Bug+Fixer;Cloud+Ready+Developer;Always+Learning&center=true&width=900&height=55"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasnainhkhan&label=Profile%20Views&color=1e3a8a&style=for-the-badge"/>
-</p>
-
----
-
-## 🎯 About Me
+# 🚀 Hasnain Haidar
 
 <div align="center">
 
-Hi 👋 I'm **Hasnain Haidar**, a **B.Tech graduate (2025)** and a **backend-focused software engineer**.
-
-I build **scalable, production-ready systems** with a passion for solving real-world problems at scale.
-
-</div>
-
-<p align="center">
-  <strong>💡 Backend is not just code — it's responsibility.</strong>
-</p>
-
-### My Focus Areas
-- 🚀 **Backend Systems** — Java, Spring Boot, microservices
-- 🧠 **Production Debugging** — Root cause analysis, performance optimization
-- ☁️ **Cloud Architecture** — AWS, serverless, distributed systems
-- 🛠️ **Issue Solver** — Real-world problem solving, system design
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-**B.Tech** — *Graduated in 2025*
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Backend+Engineer;Java+%26+Spring+Boot;Cloud+Architect;Problem+Solver;Always+Learning)](https://github.com/hasnainhkhan)
 
 </div>
 
 ---
 
-## 💼 Internship Experience
+## 👨‍💻 About Me
+
+I'm **Hasnain Haidar**, a passionate **Backend Engineer** and **B.Tech graduate (2025)** specializing in building scalable, production-ready systems. With hands-on experience in **microservices**, **cloud architecture**, and **production debugging**, I transform complex problems into elegant solutions.
+
+**Core Philosophy:** _Backend is not just code — it's responsibility._
+
+---
+
+## 🎯 What I Do
+
+| 🚀 | Backend Systems |
+|---|---|
+| Build scalable microservices with Java & Spring Boot | Optimize database performance with PostgreSQL & DynamoDB |
+| Design cloud-native architectures on AWS | Create event-driven systems with message queues |
+
+| 🧠 | Problem Solving |
+|---|---|
+| Root cause analysis of production issues | Performance optimization & debugging |
+| System design & architectural decisions | Real-world problem solving at scale |
+
+---
+
+## 📚 Education
+
+```
+╔════════════════════════════════════╗
+║ B.Tech in Computer Science         ║
+║ Graduated: 2025                    ║
+║ Focus: Backend Systems & Cloud     ║
+╚════════════════════════════════════╝
+```
+
+---
+
+## 💼 Professional Experience
 
 ### 🏢 Backend Developer Intern — **PearlThoughts**
-**📅 Nov 2025 – Dec 2025**
+**Nov 2025 – Dec 2025**
 
 <table>
-  <tr>
-    <td width="50%">
-      ✅ Built <b>Custom Session Module</b> using <b>AWS DynamoDB</b><br>
-      ✅ Fixed <b>WhatsApp notification issues</b><br>
-      ✅ Improved <b>appointment, leave & address workflows</b>
-    </td>
-    <td width="50%">
-      ✅ Worked with <b>PostgreSQL + DynamoDB</b><br>
-      ✅ Debugged & resolved <b>production issues</b><br>
-      ✅ Contributed to <b>Schedula Backend Project</b>
-    </td>
-  </tr>
+<tr>
+<td width="50%">
+
+#### 🛠️ Built & Implemented
+- ✅ Custom Session Module with **AWS DynamoDB**
+- ✅ WhatsApp notification system fixes
+- ✅ Appointment & Leave workflow optimization
+
+</td>
+<td width="50%">
+
+#### 💡 Technologies Used
+- ✅ **PostgreSQL** & **DynamoDB**
+- ✅ Production debugging & issue resolution
+- ✅ Schedula Backend Project contribution
+
+</td>
+</tr>
 </table>
 
 ---
 
 ## 🛠️ Tech Stack
 
+```
+╔═══════════════════════════════════════════════════════════╗
+║                   TECHNOLOGY ARSENAL                      ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+### 🔵 Languages & Frameworks
 <div align="center">
 
-### Languages & Frameworks
-![Java](https://img.shields.io/badge/Java-1e3a8a?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-1e3a8a?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Data](https://img.shields.io/badge/Spring%20Data-1e3a8a?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Data](https://img.shields.io/badge/Spring_Data-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=flat-square&logo=api&logoColor=white)
 
-### Cloud & Databases
-![AWS](https://img.shields.io/badge/AWS-1e3a8a?style=for-the-badge&logo=amazonaws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e3a8a?style=for-the-badge&logo=postgresql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-1e3a8a?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+</div>
 
-### Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-1e3a8a?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-1e3a8a?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-1e3a8a?style=for-the-badge&logo=linux&logoColor=white)
+### ☁️ Cloud & Databases
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-527FFF?style=flat-square&logo=amazondynamodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazon&logoColor=white)
+
+</div>
+
+### 🛠️ Tools & DevOps
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<a href="https://github.com/hasnainhkhan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasnainhkhan&show_icons=true&theme=dark&bg_color=1e3a8a&title_color=ffffff&text_color=ffffff&icon_color=3b82f6"/>
-</a>
+### 📈 Performance Metrics
 
-<a href="https://github.com/hasnainhkhan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainhkhan&layout=compact&theme=dark&bg_color=1e3a8a&title_color=ffffff&text_color=ffffff"/>
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasnainhkhan&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&border_color=00FF00)
 
-<a href="https://github.com/hasnainhkhan">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainhkhan&background=1e3a8a&ring=ffffff&fire=3b82f6&currStreakLabel=ffffff&hide_border=true"/>
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainhkhan&layout=compact&theme=radical&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&border_color=00FF00)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasnainhkhan&background=0D1117&ring=00FF00&fire=FF0000&currStreakLabel=00FF00&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=00FF00)
 
 </div>
 
 ---
 
-## 🎨 Contribution Activity
+## 🎨 Contributions & Activity
 
 <div align="center">
 
-<img src="https://github.com/hasnainhkhan/hasnainhkhan/blob/main/snake.svg" alt="Contribution Snake" width="100%"/>
+### Contribution Graph
+
+![Snake animation](https://github.com/hasnainhkhan/hasnainhkhan/blob/main/snake.svg)
 
 </div>
 
 ---
 
-## 📞 Connect With Me
+## 🎓 Key Competencies
+
+```
+┌─────────────────────────────────────────────────────────┐
+│ ✓ Microservices Architecture                           │
+│ ✓ REST API Design & Development                        │
+│ ✓ Database Design & Optimization                       │
+│ ✓ AWS Cloud Services (EC2, Lambda, DynamoDB, RDS)    │
+│ ✓ Production Debugging & Performance Tuning           │
+│ ✓ System Design & Scalability                         │
+│ ✓ CI/CD Pipelines & DevOps                            │
+│ ✓ Agile Methodologies                                 │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 💬 Let's Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-1e3a8a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hhk2170@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1e3a8a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasnainhkhan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e3a8a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+### Get In Touch
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hhk2170@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasnainhkhan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasnainhkhan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://hasnainhkhan.dev)
+
+---
+
+### 📍 Location
+**India** 🇮🇳
 
 </div>
 
 ---
 
-<!-- 🌊 FOOTER -->
+## 📈 Current Focus
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1e3a8a&height=170&section=footer" alt="Footer Wave"/>
+🔥 **2025 Goals:**
+- Master **Advanced System Design** patterns
+- Contribute to **Open Source** projects
+- Build **Production-Grade** microservices
+- Deep dive into **Cloud Architecture**
 
-**✨ Backend is not just code — it's responsibility. ✨**
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Fun Facts
+
+> "I don't just write code, I solve problems that matter."
+
+- 🧠 Always learning something new
+- 🎯 Passionate about clean code & architecture
+- 🚀 Love optimizing performance
+- 🤝 Believe in collaboration & mentorship
+
+---
+
+**Made with ❤️ by Hasnain Haidar**
+
+```
+╔════════════════════════════════════════════════════════════╗
+║  Backend is not just code — it's responsibility.           ║
+║  Let's build something extraordinary together! 🚀          ║
+╚════════════════════════════════════════════════════════════╝
+```
 
 </div>
