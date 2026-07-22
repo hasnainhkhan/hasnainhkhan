@@ -1,6 +1,6 @@
 <!-- 🌌 HERO SECTION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=260&text=Hasnain%20Haidar&fontSize=52&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=160&text=Hasnain%20Haidar&fontSize=52&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
