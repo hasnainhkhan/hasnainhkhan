@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&lines=Backend+Engineer;Java+%26+Spring+Boot;Production+Bug+Fixer;Cloud+Ready+Developer;Always+Learning&center=true&width=900&height=35">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&lines=Backend+Engineer;Java+%26+Spring+Boot;Production+Bug+Fixer;Cloud+Ready+Developer;Always+Learning&center=true&width=100%25&height=40">
 </p>
 
 <p align="center">
@@ -48,6 +48,7 @@ I enjoy working close to **real production systems**, fixing bugs that matter, a
 - ✅ Application hosted on **Render**
 
 ---
+
 <img src="https://capsule-render.vercel.app/api?type=soft&color=22C55E&height=40&text=Skills%20%26%20Tech&fontSize=24&fontColor=ffffff&align=left"/>
 
 ### 💻 Tech Stack
@@ -103,7 +104,7 @@ I enjoy working close to **real production systems**, fixing bugs that matter, a
 
 <!-- 🌊 FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=170&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=22C55E&height=160&section=footer"/>
 </p>
 
 <p align="center">
