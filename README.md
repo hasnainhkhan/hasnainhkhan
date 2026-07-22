@@ -94,15 +94,17 @@ I build **scalable, production-ready systems** with a passion for solving real-w
 
 <div align="center">
 
-| GitHub Stats | GitHub Streak |
-|:---:|:---:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasnainhkhan&show_icons=true&bg_color=1e3a8a&title_color=ffffff&text_color=ffffff&icon_color=3b82f6&hide_border=true&rank_icon=github&disable_animations=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasnainhkhan&background=1e3a8a&ring=ffffff&fire=3b82f6&currStreakLabel=ffffff&hide_border=true) |
+<a href="https://github.com/hasnainhkhan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasnainhkhan&show_icons=true&theme=dark&bg_color=1e3a8a&title_color=ffffff&text_color=ffffff&icon_color=3b82f6"/>
+</a>
 
-<br/>
+<a href="https://github.com/hasnainhkhan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainhkhan&layout=compact&theme=dark&bg_color=1e3a8a&title_color=ffffff&text_color=ffffff"/>
+</a>
 
-### 📈 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainhkhan&layout=compact&bg_color=1e3a8a&title_color=ffffff&text_color=ffffff&hide_border=true)
+<a href="https://github.com/hasnainhkhan">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainhkhan&background=1e3a8a&ring=ffffff&fire=3b82f6&currStreakLabel=ffffff&hide_border=true"/>
+</a>
 
 </div>
 
@@ -112,7 +114,7 @@ I build **scalable, production-ready systems** with a passion for solving real-w
 
 <div align="center">
 
-![Contribution Graph](https://github.com/hasnainhkhan/hasnainhkhan/blob/main/snake.svg)
+<img src="https://github.com/hasnainhkhan/hasnainhkhan/blob/main/snake.svg" alt="Contribution Snake" width="100%"/>
 
 </div>
 
