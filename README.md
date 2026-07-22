@@ -94,7 +94,7 @@ I build **scalable, production-ready systems** with a passion for solving real-w
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hasnainhkhan&show_icons=true&bg_color=1e3a8a&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&rank_icon=github"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hasnainhkhan&show_icons=true&bg_color=1e3a8a&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainhkhan&background=1e3a8a&ring=ffffff&fire=3b82f6&currStreakLabel=ffffff&hide_border=true" alt="GitHub Streak"/>
 
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainhkhan&layout=compact&bg_color=1e3a8a&title_color=ffffff&text_color=ffffff&hide_border=true" alt="Top Languages"/>
