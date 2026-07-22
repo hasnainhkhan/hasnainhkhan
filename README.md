@@ -13,7 +13,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=22C55E&height=40&text=About%20Me&fontSize=32&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=22C55E&height=40&text=About%20Me&fontSize=24&fontColor=ffffff&align=left"/>
 
 Hi 👋 I’m **Hasnain Haidar**, a **B.Tech graduate (2025)** and a **backend-focused software engineer**.
 
@@ -28,13 +28,13 @@ I enjoy working close to **real production systems**, fixing bugs that matter, a
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=22C55E&height=95&text=Education&fontSize=32&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=22C55E&height=40&text=Education&fontSize=24&fontColor=ffffff&align=left"/>
 
 🎓 **B.Tech** — *Graduated in 2025*
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=22C55E&height=80&text=Internship%20Experience&fontSize=32&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=22C55E&height=40&text=Internship%20Experience&fontSize=24&fontColor=ffffff&align=left"/>
 
 ### 🏢 Backend Developer Intern — **PearlThoughts**
 📅 **Nov 2025 – Dec 2025**
@@ -48,7 +48,8 @@ I enjoy working close to **real production systems**, fixing bugs that matter, a
 - ✅ Application hosted on **Render**
 
 ---
-<img src="https://capsule-render.vercel.app/api?type=soft&color=22C55E&height=80&text=Skills%20Tech&fontSize=32&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=22C55E&height=40&text=Skills%20%26%20Tech&fontSize=24&fontColor=ffffff&align=left"/>
+
 ### 💻 Tech Stack
 
 #### Languages & Frameworks
@@ -66,7 +67,7 @@ I enjoy working close to **real production systems**, fixing bugs that matter, a
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=22C55E&height=95&text=GitHub%20Analytics&fontSize=32&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=22C55E&height=40&text=GitHub%20Analytics&fontSize=24&fontColor=ffffff&align=left"/>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hasnainhkhan&show_icons=true&bg_color=22C55E&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true"/>
@@ -79,7 +80,7 @@ I enjoy working close to **real production systems**, fixing bugs that matter, a
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=22C55E&height=95&text=Contribution%20Activity&fontSize=32&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=22C55E&height=40&text=Contribution%20Activity&fontSize=24&fontColor=ffffff&align=left"/>
 
 <p align="center">
   <img src="https://github.com/hasnainhkhan/hasnainhkhan/blob/main/snake.svg"/>
@@ -87,7 +88,7 @@ I enjoy working close to **real production systems**, fixing bugs that matter, a
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=22C55E&height=95&text=Connect%20With%20Me&fontSize=32&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=22C55E&height=40&text=Connect%20With%20Me&fontSize=24&fontColor=ffffff&align=left"/>
 
 <p align="center">
   <a href="mailto:hhk2170@gmail.com">
