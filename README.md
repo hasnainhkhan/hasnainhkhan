@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&lines=Backend+Engineer;Java+%26+Spring+Boot;Production+Bug+Fixer;Cloud+Ready+Developer;Always+Learning&center=true&width=900&height=55">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&lines=Backend+Engineer;Java+%26+Spring+Boot;Production+Bug+Fixer;Cloud+Ready+Developer;Always+Learning&center=true&width=900&height=35">
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=22C55E&height=80&text=About%20Me&fontSize=32&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=22C55E&height=40&text=About%20Me&fontSize=32&fontColor=ffffff"/>
 
 Hi 👋 I’m **Hasnain Haidar**, a **B.Tech graduate (2025)** and a **backend-focused software engineer**.
 
