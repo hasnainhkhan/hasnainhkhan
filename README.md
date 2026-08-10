@@ -1,8 +1,19 @@
-# 🚀 Hasnain Haidar
+<h1 align="center">🚀 Hasnain Haidar</h1>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Backend+Engineer;Java+%26+Spring+Boot;Cloud+Architect;Problem+Solver)]
+[![Typing SVG](https://herokuapp.com)](https://git.io)
+
+---
+
+### 🌟 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasnainhkhan)
+[![Portfolio](https://shields.io)](https://hasnainhkhan.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasnainhkhan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hhk2170@gmail.com)
+
+📍 **Based in India 🇮🇳**
 
 </div>
 
@@ -10,205 +21,127 @@
 
 ## 👨‍💻 About Me
 
-I'm **Hasnain Haidar**, a passionate **Backend Engineer** and **B.Tech graduate (2025)** specializing in building scalable, production-ready systems. With hands-on experience in **microservices**,[...]
+I am a passionate **Backend Engineer** and **B.Tech Graduate (2025)** specializing in building scalable, production-ready enterprise systems. With hands-on experience in distributed environments, I focus heavily on writing clean, maintainable backend code.
 
-**Core Philosophy:** _Backend is not just code — it's responsibility._
-
----
-
-## 🎯 What I Do
-
-| 🚀 | Backend Systems |
-|---|---|
-| Build scalable microservices with Java & Spring Boot | Optimize database performance with PostgreSQL & DynamoDB |
-| Design cloud-native architectures on AWS | Create event-driven systems with message queues |
-
-| 🧠 | Problem Solving |
-|---|---|
-| Root cause analysis of production issues | Performance optimization & debugging |
-| System design & architectural decisions | Real-world problem solving at scale |
+* 💡 **Core Philosophy:** *Backend is not just code — it's responsibility.*
+* 🎯 **Current Mission:** Mastering complex distributed systems and cloud efficiency.
 
 ---
 
-## 📚 Education
+## 🛠️ Technology Arsenal
 
-```
-╔════════════════════════════════════╗
-║ B.Tech in Computer Science         ║
-║ Graduated: 2025                    ║
-║ Focus: Backend Systems & Cloud     ║
-╚════════════════════════════════════╝
-```
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h4>🔵 Core & Frameworks</h4>
+      <img src="https://shields.io" /><br><br>
+      <img src="https://shields.io" /><br><br>
+      <img src="https://shields.io" /><br><br>
+      <img src="https://shields.io" />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h4>☁️ Cloud & Data</h4>
+      <img src="https://shields.io" /><br><br>
+      <img src="https://shields.io" /><br><br>
+      <img src="https://shields.io" /><br><br>
+      <img src="https://shields.io" />
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h4>🛠️ Tools & DevOps</h4>
+      <img src="https://shields.io" /><br><br>
+      <img src="https://shields.io" /><br><br>
+      <img src="https://shields.io" /><br><br>
+      <img src="https://shields.io" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎯 What I Do Best
+
+```🚀 Backend Systems```
+* Build highly scalable microservices with **Java & Spring Boot**
+* Optimize relational & NoSQL database performance (**PostgreSQL**, **DynamoDB**)
+* Design cloud-native, event-driven architectures using **AWS** stack
+
+```🧠 Engineering & Problem Solving```
+* Perform deep root-cause analysis on production failures
+* Fine-tune performance bottlenecks & profiling metrics
+* Formulate system architecture decisions tailored for scale
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 Backend Developer Intern — **PearlThoughts**
-**Nov 2025 – Dec 2025**
+### 🏢 **PearlThoughts** — *Backend Developer Intern*
+📅 **Nov 2025 – Dec 2025**
 
-<table>
-<tr>
-<td width="50%">
+> **Project Highlight:** Contributed directly to the core infrastructure of the *Schedula* backend ecosystem.
 
-#### 🛠️ Built & Implemented
-- ✅ Custom Session Module with **AWS DynamoDB**
-- ✅ WhatsApp notification system fixes
-- ✅ Appointment & Leave workflow optimization
-
-</td>
-<td width="50%">
-
-#### 💡 Technologies Used
-- ✅ **PostgreSQL** & **DynamoDB**
-- ✅ Production debugging & issue resolution
-- ✅ Schedula Backend Project contribution
-
-</td>
-</tr>
-</table>
+#### 🛠️ Core Contributions & Impact:
+* 🔑 **Session Security:** Designed and implemented a custom global Session Module leveraging **AWS DynamoDB** for fast, key-value lookup.
+* 📲 **Notification Pipelines:** Fixed and refactored critical components of the automated WhatsApp notification workflow.
+* ⚙️ **Process Automation:** Optimized business logic routing for appointments and systemic employee leaves, reducing payload friction.
 
 ---
 
-## 🛠️ Tech Stack
+## 📚 Education
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                   TECHNOLOGY ARSENAL                      ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-### 🔵 Languages & Frameworks
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Spring Data](https://img.shields.io/badge/Spring_Data-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6B6B?style=flat-square&logo=api&logoColor=white)
-
-</div>
-
-### ☁️ Cloud & Databases
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-527FFF?style=flat-square&logo=amazondynamodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazon&logoColor=white)
-
-</div>
-
-### 🛠️ Tools & DevOps
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
-
-</div>
+### 🎓 Bachelor of Technology in Computer Science
+* **Graduation Year:** 2025  
+* **Core Focus:** Backend Architectures, Distributed Databases, Cloud Engineering  
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Github Metrics & Analytics
 
 <div align="center">
 
-### 📈 Performance Metrics
+🚀 **Performance Indicators**  
+<br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasnainhkhan&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&border_color=00FF00)
+![GitHub Stats](https://vercel.app)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainhkhan&layout=compact&theme=radical&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&border_color=00FF00)
+<br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasnainhkhan&theme=dark)
+![Top Languages](https://vercel.app)
+![GitHub Streak](https://herokuapp.com)
 
-</div>
+<br>
 
----
-
-## 🎨 Contributions & Activity
-
-<div align="center">
-
-### Contribution Graph
-
+### 🎨 Continuous Activity
 ![Snake animation](https://raw.githubusercontent.com/hasnainhkhan/hasnainhkhan/main/snake.svg)
 
 </div>
 
 ---
 
-## 🎓 Key Competencies
+## 🎓 Core Competencies
 
-```
-┌─────────────────────────────────────────────────────────┐
-│ ✓ Microservices Architecture                           │
-│ ✓ REST API Design & Development                        │
-│ ✓ Database Design & Optimization                       │
-│ ✓ AWS Cloud Services (EC2, Lambda, DynamoDB, RDS)    │
-│ ✓ Production Debugging & Performance Tuning           │
-│ ✓ System Design & Scalability                         │
-│ ✓ CI/CD Pipelines & DevOps                            │
-│ ✓ Agile Methodologies                                 │
-└─────────────────────────────────────────────────────────┘
-```
+```✅ Microservices Architecture```  ```✅ REST API Design```  ```✅ Database Tuning```  
+```✅ Cloud Engineering (EC2, Lambda, S3)```  ```✅ System Reliability Engineering```  ```✅ CI/CD & DevOps```
 
 ---
 
-## 💬 Let's Connect
+## 📈 Current Milestones (2026)
 
-<div align="center">
-
-### Get In Touch
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hhk2170@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasnainhkhan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasnainhkhan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://hasnainhkhan.dev)
-
----
-
-### 📍 Location
-**India** 🇮🇳
-
-</div>
-
----
-
-## 📈 Current Focus
-
-<div align="center">
-
-🔥 **2025 Goals:**
-- Master **Advanced System Design** patterns
-- Contribute to **Open Source** projects
-- Build **Production-Grade** microservices
-- Deep dive into **Cloud Architecture`
-
-</div>
+- [ ] Deep dive into **Advanced System Design** patterns (Sharding, Consensus protocols)
+- [ ] Active technical contributions to ecosystem-level **Open Source** frameworks
+- [ ] Building a resilient, open-source high-throughput API gateway implementation
 
 ---
 
 <div align="center">
 
-### 🌟 Fun Facts
-
-> "I don't just write code, I solve problems that matter."
-
-- 🧠 Always learning something new
-- 🎯 Passionate about clean code & architecture
-- 🚀 Love optimizing performance
-- 🤝 Believe in collaboration & mentorship
-
----
+### 💡 Core Truths
+> "I don't just write lines of code; I architect systems that stay standing when the load hits."
 
 **Made with ❤️ by Hasnain Haidar**
 
-```
-╔════════════════════════════════════════════════════════════╗
-║  Backend is not just code — it's responsibility.           ║
-║  Let's build something extraordinary together! 🚀          ║
-╚════════════════════════════════════════════════════════════╝
+</div>
 ```
 
-</div>
+<FollowUp>
+Would you like me to adjust the **color theme** (e.g., transition from Neon Green to minimalist Cyberpunk Purple or Blue), or would you like to add an interactive **projects gallery section**?
+</FollowUp>
