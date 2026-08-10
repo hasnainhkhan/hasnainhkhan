@@ -1,74 +1,54 @@
-<h1 align="center">🚀 Hasnain Haidar</h1>
-
 <div align="center">
+
+# 🚀 HASNAIN HAIDAR
+### ⚡ Backend Engineer | Cloud Architect | Problem Solver
 
 [![Typing SVG](https://herokuapp.com)](https://git.io)
 
 ---
 
-### 🌟 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasnainhkhan)
-[![Portfolio](https://shields.io)](https://hasnainhkhan.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasnainhkhan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hhk2170@gmail.com)
-
-📍 **Based in India 🇮🇳**
-
-</div>
+   <a href="https://linkedin.com">🚀 LinkedIn</a> • 
+   <a href="https://hasnainhkhan.dev">🌐 Portfolio</a> • 
+   <a href="mailto:hhk2170@gmail.com">📬 Email</a> • 
+   <a href="https://github.com">💻 GitHub</a>
 
 ---
+</div>
 
 ## 👨‍💻 About Me
 
-I am a passionate **Backend Engineer** and **B.Tech Graduate (2025)** specializing in building scalable, production-ready enterprise systems. With hands-on experience in distributed environments, I focus heavily on writing clean, maintainable backend code.
+I am a results-driven **Backend Engineer** and **B.Tech Graduate (2025)** passionate about building resilient, high-throughput systems. I specialize in turning complex architectural requirements into clean, production-grade microservices.
 
-* 💡 **Core Philosophy:** *Backend is not just code — it's responsibility.*
-* 🎯 **Current Mission:** Mastering complex distributed systems and cloud efficiency.
+> 💡 **Core Philosophy:** *Backend is not just code — it's responsibility.*
 
 ---
 
 ## 🛠️ Technology Arsenal
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h4>🔵 Core & Frameworks</h4>
-      <img src="https://shields.io" /><br><br>
-      <img src="https://shields.io" /><br><br>
-      <img src="https://shields.io" /><br><br>
-      <img src="https://shields.io" />
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>☁️ Cloud & Data</h4>
-      <img src="https://shields.io" /><br><br>
-      <img src="https://shields.io" /><br><br>
-      <img src="https://shields.io" /><br><br>
-      <img src="https://shields.io" />
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>🛠️ Tools & DevOps</h4>
-      <img src="https://shields.io" /><br><br>
-      <img src="https://shields.io" /><br><br>
-      <img src="https://shields.io" /><br><br>
-      <img src="https://shields.io" />
-    </td>
-  </tr>
-</table>
+### 💻 Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev" />
+  <img src="https://shields.io" height="40" />
+</p>
+
+### ☁️ Cloud & Databases
+<p align="left">
+  <img src="https://skillicons.dev" />
+</p>
+
+### 🔧 Tools & DevOps
+<p align="left">
+  <img src="https://skillicons.dev" />
+</p>
 
 ---
 
-## 🎯 What I Do Best
+## 🎯 Core Competencies & What I Do
 
-```🚀 Backend Systems```
-* Build highly scalable microservices with **Java & Spring Boot**
-* Optimize relational & NoSQL database performance (**PostgreSQL**, **DynamoDB**)
-* Design cloud-native, event-driven architectures using **AWS** stack
-
-```🧠 Engineering & Problem Solving```
-* Perform deep root-cause analysis on production failures
-* Fine-tune performance bottlenecks & profiling metrics
-* Formulate system architecture decisions tailored for scale
+* **Distributed Ecosystems** — Designing scalable microservices with Java & Spring Boot.
+* **Database Optimization** — Query fine-tuning and state management with PostgreSQL & DynamoDB.
+* **Cloud Architecture** — Deploying cloud-native solutions across AWS infrastructure.
+* **SRE & Debugging** — Fast root-cause analysis, system profiling, and fixing production bugs.
 
 ---
 
@@ -77,71 +57,56 @@ I am a passionate **Backend Engineer** and **B.Tech Graduate (2025)** specializi
 ### 🏢 **PearlThoughts** — *Backend Developer Intern*
 📅 **Nov 2025 – Dec 2025**
 
-> **Project Highlight:** Contributed directly to the core infrastructure of the *Schedula* backend ecosystem.
-
-#### 🛠️ Core Contributions & Impact:
-* 🔑 **Session Security:** Designed and implemented a custom global Session Module leveraging **AWS DynamoDB** for fast, key-value lookup.
-* 📲 **Notification Pipelines:** Fixed and refactored critical components of the automated WhatsApp notification workflow.
-* ⚙️ **Process Automation:** Optimized business logic routing for appointments and systemic employee leaves, reducing payload friction.
+* 🔑 **Session Security:** Designed and built a high-performance session tracking engine using **AWS DynamoDB**.
+* 📲 **Notification Pipelines:** Fixed workflow bugs in production automated WhatsApp alerts.
+* ⚙️ **Workflow Scaling:** Refactored core business flows for appointment routines in the *Schedula* project.
 
 ---
 
 ## 📚 Education
 
-### 🎓 Bachelor of Technology in Computer Science
-* **Graduation Year:** 2025  
-* **Core Focus:** Backend Architectures, Distributed Databases, Cloud Engineering  
+### 🎓 B.Tech in Computer Science & Engineering
+* **Batch:** 2021 - 2025  
+* **Specialization:** Cloud Engineering, Advanced Database Systems & Backend Frameworks.
 
 ---
 
-## 📊 Github Metrics & Analytics
+## 📊 Live GitHub Analytics
 
 <div align="center">
 
-🚀 **Performance Indicators**  
-<br>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://vercel.app" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://vercel.app" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://herokuapp.com" width="100%" />
+    </td>
+  </tr>
+</table>
 
-![GitHub Stats](https://vercel.app)
-
-<br>
-
-![Top Languages](https://vercel.app)
-![GitHub Streak](https://herokuapp.com)
-
-<br>
-
-### 🎨 Continuous Activity
-![Snake animation](https://raw.githubusercontent.com/hasnainhkhan/hasnainhkhan/main/snake.svg)
+### 🎨 Contribution Matrix
+![Snake animation](https://githubusercontent.com)
 
 </div>
 
 ---
 
-## 🎓 Core Competencies
+## 📈 2026 Strategy & Goals
 
-```✅ Microservices Architecture```  ```✅ REST API Design```  ```✅ Database Tuning```  
-```✅ Cloud Engineering (EC2, Lambda, S3)```  ```✅ System Reliability Engineering```  ```✅ CI/CD & DevOps```
-
----
-
-## 📈 Current Milestones (2026)
-
-- [ ] Deep dive into **Advanced System Design** patterns (Sharding, Consensus protocols)
-- [ ] Active technical contributions to ecosystem-level **Open Source** frameworks
-- [ ] Building a resilient, open-source high-throughput API gateway implementation
+- [ ] Master advanced system design paradigms (Consensus algorithms, Event sourcing)
+- [ ] Contribute core features to ecosystem-level Open Source Java libraries
+- [ ] Build and document an end-to-end distributed rate limiter project
 
 ---
 
 <div align="center">
-
-### 💡 Core Truths
-> "I don't just write lines of code; I architect systems that stay standing when the load hits."
-
-**Made with ❤️ by Hasnain Haidar**
-
+  <p>⚡ <i>"I don't just write lines of code; I architect systems that survive peak loads."</i></p>
+  <b>Made with ❤️ by Hasnain Haidar</b>
 </div>
-```
-
-<FollowUp>
-Would you like me to adjust the **color theme** (e.g., transition from Neon Green to minimalist Cyberpunk Purple or Blue), or would you like to add an interactive **projects gallery section**?
-</FollowUp>
