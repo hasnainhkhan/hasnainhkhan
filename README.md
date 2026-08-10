@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Backend+Engineer;Java+%26+Spring+Boot;Cloud+Architect;Pro[...]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Backend+Engineer;Java+%26+Spring+Boot;Cloud+Architect;Problem+Solver)]
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Hasnain Haidar**, a passionate **Backend Engineer** and **B.Tech graduate (2025)** specializing in building scalable, production-ready systems. With hands-on experience in **microservices**, **c[...]
+I'm **Hasnain Haidar**, a passionate **Backend Engineer** and **B.Tech graduate (2025)** specializing in building scalable, production-ready systems. With hands-on experience in **microservices**,[...]
 
 **Core Philosophy:** _Backend is not just code — it's responsibility._
 
@@ -116,11 +116,11 @@ I'm **Hasnain Haidar**, a passionate **Backend Engineer** and **B.Tech graduate 
 
 ### 📈 Performance Metrics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasnainhkhan&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&border_color=00FF0[...]
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasnainhkhan&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00&border_color=00FF00)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainhkhan&layout=compact&theme=radical&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&border_color=00FF00)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasnainhkhan&background=0D1117&ring=00FF00&fire=FF0000&currStreakLabel=00FF00&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&bor[...]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasnainhkhan&theme=dark)
 
 </div>
 
@@ -132,7 +132,7 @@ I'm **Hasnain Haidar**, a passionate **Backend Engineer** and **B.Tech graduate 
 
 ### Contribution Graph
 
-![Snake animation](https://github.com/hasnainhkhan/hasnainhkhan/blob/main/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/hasnainhkhan/hasnainhkhan/main/snake.svg)
 
 </div>
 
@@ -183,7 +183,7 @@ I'm **Hasnain Haidar**, a passionate **Backend Engineer** and **B.Tech graduate 
 - Master **Advanced System Design** patterns
 - Contribute to **Open Source** projects
 - Build **Production-Grade** microservices
-- Deep dive into **Cloud Architecture**
+- Deep dive into **Cloud Architecture`
 
 </div>
 
