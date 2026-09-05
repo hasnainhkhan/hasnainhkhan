@@ -1,6 +1,7 @@
 <div align="center">
 
 <img src="hasnain-haidar-paint.svg" alt="HASNAIN HAIDAR" width="720"/>
+<img src="hasnain-haidar-paint.svg" alt="HASNAIN" height="25"/>
 
 ### ⚡ Backend Engineer | Cloud Architect | Problem Solver
 
