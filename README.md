@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🚀 HASNAIN HAIDAR
+<img src="hasnain-haidar-paint.svg" alt="HASNAIN HAIDAR" width="720"/>
+
 ### ⚡ Backend Engineer | Cloud Architect | Problem Solver
 
 [![Typing SVG](https://herokuapp.com)](https://git.io)
