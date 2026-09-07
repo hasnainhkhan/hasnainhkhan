@@ -49,8 +49,8 @@ I am a highly motivated **Backend Engineer** and **B.Tech Graduate (2025)** spec
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="35" />
   <!-- DynamoDB -->
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" height="35" />
-  <!-- Redis -->
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="35" />
+
+
 </p>
 
 ### 🔧 Tools & DevOps
