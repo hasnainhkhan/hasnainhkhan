@@ -82,7 +82,7 @@ I am a highly motivated **Backend Engineer** and **B.Tech Graduate (2025)** spec
 
 ### 🌟 **[Project Name 1: e.g., Distributed Rate Limiter]**
 *A production-ready distributed system component.*
-- **Tech Stack:** Java, Spring Boot, Redis.
+- **Tech Stack:** Java, Spring Boot.
 - **Key Outcome:** Achieved 99.9% uptime under simulated peak load by implementing Token Bucket algorithm via Redis Lua scripts.
 
 ### 🌟 **[Project Name 2: e.g., Microservice E-Commerce API]**
