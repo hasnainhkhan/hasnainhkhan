@@ -2,7 +2,7 @@
 
 <!-- Yahan aapka image already SVG file ke through setup hai. Is line ko mat chedye agar SVG aapke repo me hai -->
 <img src="hasnain-haidar-paint.svg" alt="HASNAIN HAIDAR" width="720"/>
-<img src="overlay.svg" alt="Overlay" width="720"/>
+
 
 
 ### ⚡ Aspiring Backend Engineer | Aspiring Cloud Architect | Problem Solver
