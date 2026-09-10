@@ -8,7 +8,7 @@
 
 *Driven by logic, architecting for scale. Turning coffee into scalable APIs.*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4FACFE&width=435&lines=Building+Resilient+Microservices;Mastering+Spring+Boot;Optimizing+NoSQL+Databases;AWS+Cloud+Practitioner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4FACFE&width=435&lines=Building+Resilient+Microservices;Mastering+Spring+Boot;Optimizing+NoSQL+Databases;AWS+Cloud+Solutions)](https://git.io/typing-svg)
 
 ---
 
@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-I am a highly motivated **Backend Engineer** and **B.Tech Graduate (2025)** specializing in building resilient, high-throughput systems. I have a foundational passion for turning complex architectural requirements into clean, production-grade microservices. As a fresher, I bring strong theoretical knowledge of system design and practical internship experience in Agile environments.
+I am a highly motivated **Backend Engineer** and **B.Tech Graduate (2025)** specializing in building resilient, high-throughput systems. I have a foundational passion for turning complex architectural challenges into reliable, scalable backend products.
 
 > 💡 **Core Philosophy:** *Simplicity is the ultimate sophistication in backend architecture.*
 
@@ -80,12 +80,12 @@ I am a highly motivated **Backend Engineer** and **B.Tech Graduate (2025)** spec
 
 *Since I'm a fresher, these projects showcase my practical skills:*
 
-### 🌟 **[Project Name 1: e.g., Distributed Rate Limiter]**
-*A production-ready distributed system component.*
-- **Tech Stack:** Java, Spring Boot.
-- **Key Outcome:** Achieved 99.9% uptime under simulated peak load by implementing Token Bucket algorithm via Redis Lua scripts.
+### 🌟 **ProConnect**
+*A production-ready professional networking platform for students and early-career professionals.*
+- **Tech Stack:** Java, Spring Boot, PostgreSQL, Docker.
+- **Key Outcome:** Built secure authentication, profile management, and networking workflows with scalable REST APIs.
 
-### 🌟 **[Project Name 2: e.g., Microservice E-Commerce API]**
+### 🌟 **Microservice E-Commerce API**
 *A scalable backend API for online retail.*
 - **Tech Stack:** Python (FastAPI/Django), PostgreSQL, Docker.
 - **Key Outcome:** Containerized and deployed three independent services (User, Order, Inventory) with inter-service communication via REST.
