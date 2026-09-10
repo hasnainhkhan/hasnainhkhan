@@ -9,7 +9,7 @@
 
 *Driven by logic, architecting for scale. Turning coffee into scalable APIs.*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4FACFE&width=435&lines=Building+Resilient+Microservices;Mastering+Spring+Boot;Optimizing+NoSQL+Databases;AWS+Clou[...] 
+
 
 ---
 
