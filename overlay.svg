@@ -1,0 +1,54 @@
+<svg width="1440" height="420" viewBox="0 0 1440 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1440" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0B1020"/>
+      <stop offset="55%" stop-color="#111A33"/>
+      <stop offset="100%" stop-color="#1A2A4A"/>
+    </linearGradient>
+
+    <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4FACFE"/>
+      <stop offset="100%" stop-color="#00F2FE"/>
+    </linearGradient>
+
+    <filter id="blurGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="28" result="blur"/>
+    </filter>
+
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#8AB4FF" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1440" height="420" fill="url(#bgGrad)"/>
+  <rect width="1440" height="420" fill="url(#grid)"/>
+
+  <circle cx="250" cy="90" r="110" fill="#4FACFE" fill-opacity="0.35" filter="url(#blurGlow)"/>
+  <circle cx="1170" cy="330" r="130" fill="#00F2FE" fill-opacity="0.25" filter="url(#blurGlow)"/>
+
+  <g opacity="0.4" stroke="url(#accentGrad)" stroke-width="2" stroke-linecap="round">
+    <path d="M80 310C250 250 360 345 530 285C650 245 730 275 870 230C1020 182 1170 225 1360 145"/>
+    <path d="M95 342C250 305 355 370 515 325C655 286 760 318 900 270C1060 215 1195 260 1338 212" opacity="0.65"/>
+  </g>
+
+  <g fill="#7FDBFF" opacity="0.8">
+    <circle cx="530" cy="285" r="4"/>
+    <circle cx="870" cy="230" r="4"/>
+    <circle cx="1170" cy="225" r="4"/>
+    <circle cx="900" cy="270" r="4"/>
+  </g>
+
+  <g>
+    <rect x="64" y="52" rx="12" ry="12" width="300" height="44" fill="#0E1730" fill-opacity="0.85" stroke="#4FACFE" stroke-opacity="0.35"/>
+    <text x="84" y="80" fill="#CDE7FF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="600">
+      Backend • Cloud • Microservices
+    </text>
+  </g>
+
+  <g>
+    <rect x="1010" y="52" rx="12" ry="12" width="368" height="44" fill="#0E1730" fill-opacity="0.85" stroke="#00F2FE" stroke-opacity="0.35"/>
+    <text x="1030" y="80" fill="#D9F7FF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="18" font-weight="600">
+      Scalable APIs | AWS | Spring Boot
+    </text>
+  </g>
+</svg>
