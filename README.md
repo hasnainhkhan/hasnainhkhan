@@ -2,13 +2,14 @@
 
 <!-- Yahan aapka image already SVG file ke through setup hai. Is line ko mat chedye agar SVG aapke repo me hai -->
 <img src="hasnain-haidar-paint.svg" alt="HASNAIN HAIDAR" width="720"/>
+<img src="overlay.svg" alt="Overlay" width="720"/>
 
 
 ### ⚡ Aspiring Backend Engineer | Aspiring Cloud Architect | Problem Solver
 
 *Driven by logic, architecting for scale. Turning coffee into scalable APIs.*
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4FACFE&width=435&lines=Building+Resilient+Microservices;Mastering+Spring+Boot;Optimizing+NoSQL+Databases;AWS+Cloud+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4FACFE&width=435&lines=Building+Resilient+Microservices;Mastering+Spring+Boot;Optimizing+NoSQL+Databases;AWS+Clou[...] 
 
 ---
 
@@ -21,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-I am a highly motivated **Backend Engineer** and **B.Tech Graduate (2025)** specializing in building resilient, high-throughput systems. I have a foundational passion for turning complex architectural challenges into reliable, scalable backend products.
+I am a highly motivated **Backend Engineer** and **B.Tech Graduate (2025)** specializing in building resilient, high-throughput systems. I have a foundational passion for turning complex architect[...]
 
 > 💡 **Core Philosophy:** *Simplicity is the ultimate sophistication in backend architecture.*
 
