@@ -6,10 +6,10 @@
 
 <p><strong>Turning real requirements into reliable software.</strong><br /><sub>Java & Spring Boot · Database design · Practical cloud engineering</sub></p>
 
-<a href="https://www.linkedin.com/in/hasnainhaidar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
-<a href="https://portfolio.hasnainhaidar.works/"><img src="https://img.shields.io/badge/Portfolio-Explore-238636?style=for-the-badge" alt="Explore my portfolio" /></a>
-<a href="https://www.hackerrank.com/profile/hhkhan"><img src="https://img.shields.io/badge/HackerRank-Practice-00AA55?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank profile" /></a>
-<a href="mailto:hhk2170@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-30363D?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" /></a>
+<a href="https://www.linkedin.com/in/hasnainhaidar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=161b22" alt="Connect on LinkedIn" /></a>
+<a href="https://portfolio.hasnainhaidar.works/"><img src="https://img.shields.io/badge/Portfolio-Explore-238636?style=for-the-badge&labelColor=161b22" alt="Explore my portfolio" /></a>
+<a href="https://www.hackerrank.com/profile/hhkhan"><img src="https://img.shields.io/badge/HackerRank-Practice-00AA55?style=for-the-badge&labelColor=161b22&logo=hackerrank&logoColor=white" alt="HackerRank profile" /></a>
+<a href="mailto:hhk2170@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-30363D?style=for-the-badge&labelColor=161b22&logo=gmail&logoColor=white" alt="Send me an email" /></a>
 
 <br /><br />
 <sub>JAVA &nbsp; / &nbsp; APIs &nbsp; / &nbsp; CLOUD &nbsp; / &nbsp; CONTINUOUS LEARNING</sub>
@@ -26,24 +26,31 @@ Hi, I'm **Hasnain Haidar**, a developer based in **Lucknow, India**. My focus is
 
 I enjoy turning real requirements into working software—from authentication and profile management to booking workflows and admin tools. I aim to write code that is clear, maintainable, and easy to build on.
 
-- **Building:** Web applications, REST APIs, and tools that simplify everyday workflows.
-- **Improving:** API design, database performance, testing, and deployment practices.
-- **Exploring:** Distributed systems, event-driven architecture, and cloud services.
+<table>
+<tr>
+<td width="33%" valign="top"><h3>⚡ Building</h3><p>Web applications, REST APIs, and tools that simplify everyday workflows.</p></td>
+<td width="33%" valign="top"><h3>🎯 Improving</h3><p>API design, database performance, testing, and deployment practices.</p></td>
+<td width="33%" valign="top"><h3>🌱 Exploring</h3><p>Distributed systems, event-driven architecture, and cloud services.</p></td>
+</tr>
+</table>
 
 ## 🛠 Tech toolbox
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Java-238636?style=for-the-badge&labelColor=161b22" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-238636?style=for-the-badge&labelColor=161b22&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Python-238636?style=for-the-badge&labelColor=161b22&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-238636?style=for-the-badge&labelColor=161b22&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <br />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge" alt="DynamoDB" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/PostgreSQL-238636?style=for-the-badge&labelColor=161b22&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/DynamoDB-238636?style=for-the-badge&labelColor=161b22" alt="DynamoDB" />
+  <img src="https://img.shields.io/badge/AWS-238636?style=for-the-badge&labelColor=161b22" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-238636?style=for-the-badge&labelColor=161b22&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-238636?style=for-the-badge&labelColor=161b22&logo=git&logoColor=white" alt="Git" />
 </p>
+
+<details>
+<summary><strong>View stack by category</strong></summary>
 
 | Area | Technologies |
 | --- | --- |
@@ -51,6 +58,9 @@ I enjoy turning real requirements into working software—from authentication an
 | Databases | PostgreSQL, DynamoDB |
 | Cloud & tools | AWS, Docker, Git, GitHub |
 | Learning | Kubernetes, Kafka, distributed system design |
+
+
+</details>
 
 ## 🚀 Featured work
 
@@ -100,8 +110,8 @@ November–December 2024
 
 ## 💚 Around GitHub
 
-[![GitHub followers](https://img.shields.io/github/followers/hasnainhkhan?style=for-the-badge&logo=github&label=Followers&color=238636)](https://github.com/hasnainhkhan?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/hasnainhkhan?style=for-the-badge&logo=github&label=Repository%20Stars&color=238636)](https://github.com/hasnainhkhan?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/hasnainhkhan?style=for-the-badge&labelColor=161b22&logo=github&label=Followers&color=238636)](https://github.com/hasnainhkhan?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/hasnainhkhan?style=for-the-badge&labelColor=161b22&logo=github&label=Repository%20Stars&color=238636)](https://github.com/hasnainhkhan?tab=repositories)
 
 ## 💬 Let's connect
 
