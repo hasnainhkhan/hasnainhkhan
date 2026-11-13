@@ -2,17 +2,25 @@
 
 <img src="hasnain-haidar-paint.svg" alt="Hasnain Haidar" width="720" />
 
-### Java & Spring Boot Developer · Backend Development · Cloud Computing
+### Backend developer. Cloud explorer. Problem solver.
 
-Building practical applications, reliable APIs, and better user experiences.
+<p><strong>Turning real requirements into reliable software.</strong><br /><sub>Java & Spring Boot · Database design · Practical cloud engineering</sub></p>
 
-[LinkedIn](https://www.linkedin.com/in/hasnainhaidar/) · [Portfolio](https://portfolio.hasnainhaidar.works/) · [HackerRank](https://www.hackerrank.com/profile/hhkhan) · [Email](mailto:hhk2170@gmail.com)
+<a href="https://www.linkedin.com/in/hasnainhaidar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+<a href="https://portfolio.hasnainhaidar.works/"><img src="https://img.shields.io/badge/Portfolio-Explore-238636?style=for-the-badge" alt="Explore my portfolio" /></a>
+<a href="https://www.hackerrank.com/profile/hhkhan"><img src="https://img.shields.io/badge/HackerRank-Practice-00AA55?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank profile" /></a>
+<a href="mailto:hhk2170@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-30363D?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" /></a>
+
+<br /><br />
+<sub>JAVA &nbsp; / &nbsp; APIs &nbsp; / &nbsp; CLOUD &nbsp; / &nbsp; CONTINUOUS LEARNING</sub>
+
+<p><a href="#-about-me">About</a> · <a href="#-tech-toolbox">Toolbox</a> · <a href="#-featured-work">Projects</a> · <a href="#-experience">Experience</a> · <a href="#-lets-connect">Connect</a></p>
 
 </div>
 
 ---
 
-## About me
+## 👋 About me
 
 Hi, I'm **Hasnain Haidar**, a developer based in **Lucknow, India**. My focus is backend development with **Java and Spring Boot**, with interests in database design, cloud infrastructure, and system design.
 
@@ -22,7 +30,7 @@ I enjoy turning real requirements into working software—from authentication an
 - **Improving:** API design, database performance, testing, and deployment practices.
 - **Exploring:** Distributed systems, event-driven architecture, and cloud services.
 
-## Technologies
+## 🛠 Tech toolbox
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge" alt="Java" />
@@ -44,29 +52,37 @@ I enjoy turning real requirements into working software—from authentication an
 | Cloud & tools | AWS, Docker, Git, GitHub |
 | Learning | Kubernetes, Kafka, distributed system design |
 
-## Selected projects
+## 🚀 Featured work
 
-### [Redd Foxx](https://github.com/hasnainhkhan/reddfoxx_)
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🦊 Redd Foxx</h3>
+<p><strong>Events · Bookings · Admin workflows</strong></p>
+<p>An event discovery and booking platform connecting visitors and exhibitors.</p>
+<p>Pass and stall bookings, coupons, WhatsApp workflows, exhibitor ID cards, and user experience improvements.</p>
+<a href="https://github.com/hasnainhkhan/reddfoxx_">Explore repository →</a>
+</td>
+<td width="50%" valign="top">
+<h3>🤝 ProConnect</h3>
+<p><strong>Java · Spring Boot · PostgreSQL · Docker</strong></p>
+<p>A professional networking platform for students and early-career professionals.</p>
+<p>Authentication, profile management, and networking workflows backed by REST APIs.</p>
+<a href="https://github.com/hasnainhkhan/proconnect">Explore repository →</a>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<h3>🌐 Frontend Portfolio</h3>
+<p>A home for my projects and a space to keep improving my frontend skills.</p>
+<a href="https://github.com/hasnainhkhan/frontend-portfolio">View source →</a> &nbsp; · &nbsp; <a href="https://portfolio.hasnainhaidar.works/">Visit portfolio ↗</a>
+</td>
+</tr>
+</table>
 
-An event discovery and booking platform with visitor and exhibitor workflows.
+[Browse all repositories →](https://github.com/hasnainhkhan?tab=repositories)
 
-- Work spans pass and stall bookings, account profiles, and administration.
-- Recent contributions include WhatsApp workflows, coupons, exhibitor ID cards, and user experience improvements.
-
-### [ProConnect](https://github.com/hasnainhkhan/proconnect)
-
-A professional networking platform for students and early-career professionals.
-
-- Focus areas include authentication, profile management, and networking workflows.
-- Built around Java, Spring Boot, PostgreSQL, and Docker.
-
-### [Frontend Portfolio](https://github.com/hasnainhkhan/frontend-portfolio)
-
-My portfolio project—a place to present my work and keep improving my frontend skills.
-
-[Explore all repositories →](https://github.com/hasnainhkhan?tab=repositories)
-
-## Experience
+## 💼 Experience
 
 **Backend Developer Intern · PearlThoughts**  
 November–December 2024
@@ -75,24 +91,24 @@ November–December 2024
 - Debugged WhatsApp notification workflows and improved message reliability.
 - Refactored appointment-related business logic.
 
-## Current learning goals
+## 🌱 Next on my learning path
 
 - Build and document an event-driven backend project.
 - Learn Kafka through practical message-processing workflows.
 - Strengthen automated testing, observability, and deployment skills.
 - Make useful open-source contributions with clear documentation.
 
-## GitHub community
+## 💚 Around GitHub
 
 [![GitHub followers](https://img.shields.io/github/followers/hasnainhkhan?style=for-the-badge&logo=github&label=Followers&color=238636)](https://github.com/hasnainhkhan?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/hasnainhkhan?style=for-the-badge&logo=github&label=Repository%20Stars&color=238636)](https://github.com/hasnainhkhan?tab=repositories)
 
-## Let's connect
+## 💬 Let's connect
 
 Interested in Java, backend development, or a project collaboration? Connect with me on [LinkedIn](https://www.linkedin.com/in/hasnainhaidar/) or email [hhk2170@gmail.com](mailto:hhk2170@gmail.com).
 
 ---
 
 <div align="center">
-  <sub>Build with purpose. Keep learning. Make it better.</sub>
+  <strong>Build with purpose. Keep learning. Make it better.</strong><br /><sub>Thanks for stopping by — explore a repository and say hello.</sub>
 </div>
