@@ -1,124 +1,80 @@
 <div align="center">
 
-<!-- Yahan aapka image already SVG file ke through setup hai. Is line ko mat chedye agar SVG aapke repo me hai -->
-<img src="hasnain-haidar-paint.svg" alt="HASNAIN HAIDAR" width="720"/>
+<img src="hasnain-haidar-paint.svg" alt="Hasnain Haidar" width="720" />
 
+### Java & Spring Boot Developer · Backend Development · Cloud Computing
 
+Building practical applications, reliable APIs, and better user experiences.
 
-### ⚡ Aspiring Backend Engineer | Aspiring Cloud Architect | Problem Solver
+[LinkedIn](https://www.linkedin.com/in/hasnainhaidar/) · [Portfolio](https://portfolio.hasnainhaidar.works/) · [HackerRank](https://www.hackerrank.com/profile/hhkhan) · [Email](mailto:hhk2170@gmail.com)
 
-*Driven by logic, architecting for scale. Turning coffee into scalable APIs.*
-
-
-
----
-
-   <a href="[YOUR_LINKEDIN_URL]">🚀 LinkedIn</a> • 
-   <a href="https://hasnainhkhan.dev">🌐 Portfolio</a> • 
-   <a href="mailto:hhk2170@gmail.com">📬 Email</a>
-
----
 </div>
 
-## 👨‍💻 About Me
-
-I am a highly motivated **Backend Engineer** and **B.Tech Graduate (2025)** specializing in building resilient, high-throughput systems. I have a foundational passion for turning complex architect[...]
-
-> 💡 **Core Philosophy:** *Simplicity is the ultimate sophistication in backend architecture.*
-
 ---
 
-## 🛠️ Technology Arsenal (Fresher Proficiency)
+## About me
 
-### 💻 Languages & Frameworks
-<p align="left">
-  <!-- Spring Boot -->
-  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" height="35" />
-  <!-- Java -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="35" />
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35" />
-  <!-- Node.js (Optional, delete if not used) -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="35" />
-</p>
+Hi, I'm **Hasnain Haidar**, a developer based in **Lucknow, India**. My focus is backend development with **Java and Spring Boot**, with interests in database design, cloud infrastructure, and system design.
 
-### ☁️ Cloud & Databases
-<p align="left">
-  <!-- AWS -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="35" />
-  <!-- PostgreSQL -->
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="35" />
-  <!-- DynamoDB -->
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" height="35" />
+I enjoy turning real requirements into working software—from authentication and profile management to booking workflows and admin tools. I aim to write code that is clear, maintainable, and easy to build on.
 
+- **Building:** Web applications, REST APIs, and tools that simplify everyday workflows.
+- **Improving:** API design, database performance, testing, and deployment practices.
+- **Exploring:** Distributed systems, event-driven architecture, and cloud services.
 
-</p>
+## Technologies
 
-### 🔧 Tools & DevOps
-<p align="left">
-  <!-- Docker -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="35" />
-  <!-- Git -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="35" />
-  <!-- Kubernetes (Basic) -->
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="35" />
-</p>
+| Area | Technologies |
+| --- | --- |
+| Backend | Java, Spring Boot, Python, Node.js |
+| Databases | PostgreSQL, DynamoDB |
+| Cloud & tools | AWS, Docker, Git, GitHub |
+| Learning | Kubernetes, Kafka, distributed system design |
 
----
+## Selected projects
 
-## 💼 Professional Experience
+### [Redd Foxx](https://github.com/hasnainhkhan/reddfoxx_)
 
-### 🏢 **PearlThoughts** — *Backend Developer Intern*
-📅 **Nov 2024 – Dec 2024** (Corrected date to be logical for a fresher)
+An event discovery and booking platform with visitor and exhibitor workflows.
 
-* 🔑 **Session Security:** Designed and implemented a high-performance session tracking engine using **AWS DynamoDB**, reducing token verification latency.
-* 📲 **Notification Pipelines:** Debugged and optimized automated WhatsApp alert workflows in production, increasing message reliability.
-* ⚙️ **Workflow Scaling:** Refactored core business logical flows for appointment routines within the *Schedula* project.
+- Work spans pass and stall bookings, account profiles, and administration.
+- Recent contributions include WhatsApp workflows, coupons, exhibitor ID cards, and user experience improvements.
 
----
+### [ProConnect](https://github.com/hasnainhkhan/proconnect)
 
-## 🚀 Key Fresher Projects
+A professional networking platform for students and early-career professionals.
 
-*Since I'm a fresher, these projects showcase my practical skills:*
+- Focus areas include authentication, profile management, and networking workflows.
+- Built around Java, Spring Boot, PostgreSQL, and Docker.
 
-### 🌟 **ProConnect**
-*A production-ready professional networking platform for students and early-career professionals.*
-- **Tech Stack:** Java, Spring Boot, PostgreSQL, Docker.
-- **Key Outcome:** Built secure authentication, profile management, and networking workflows with scalable REST APIs.
+### [Frontend Portfolio](https://github.com/hasnainhkhan/frontend-portfolio)
 
-### 🌟 **Microservice E-Commerce API**
-*A scalable backend API for online retail.*
-- **Tech Stack:** Python (FastAPI/Django), PostgreSQL, Docker.
-- **Key Outcome:** Containerized and deployed three independent services (User, Order, Inventory) with inter-service communication via REST.
+My portfolio project—a place to present my work and keep improving my frontend skills.
 
----
+[Explore all repositories →](https://github.com/hasnainhkhan?tab=repositories)
 
-## 🎯 Fresh Graduate Competencies
+## Experience
 
-* **System Fundamentals** — Strong understanding of Data Structures, Algorithms, and Object-Oriented Analysis and Design (OOAD).
-* **Distributed Ecosystems** — Hands-on experience designing scalable microservices with Java & Spring Boot.
-* **Database Optimization** — Query fine-tuning and state management knowledge with PostgreSQL & DynamoDB.
-* **Cloud Principles** — Familiarity with AWS infrastructure basics for cloud-native deployments.
+**Backend Developer Intern · PearlThoughts**  
+November–December 2024
 
----
+- Worked on session tracking with AWS DynamoDB for the Schedula project.
+- Debugged WhatsApp notification workflows and improved message reliability.
+- Refactored appointment-related business logic.
 
-## 📚 Education
+## Current learning goals
 
-### 🎓 B.Tech in Computer Science & Engineering
-* **Batch:** 2021 - 2025
-* **Relevant Coursework:** Cloud Engineering, Advanced Database Systems, Data Structures & Algorithms, Distributed Systems.
+- Build and document an event-driven backend project.
+- Learn Kafka through practical message-processing workflows.
+- Strengthen automated testing, observability, and deployment skills.
+- Make useful open-source contributions with clear documentation.
 
----
+## Let's connect
 
-## 📈 2026 Strategy & Goals (My Growth Plan)
-
-- [x] Complete AWS Certified Cloud Practitioner.
-- [ ] Build and document an advanced system design paradigm project (e.g., Event Sourcing).
-- [ ] Master Kafka for real-time data streaming.
+Interested in Java, backend development, or a project collaboration? Connect with me on [LinkedIn](https://www.linkedin.com/in/hasnainhaidar/) or email [hhk2170@gmail.com](mailto:hhk2170@gmail.com).
 
 ---
 
 <div align="center">
-  <p>⚡ <i>"Fresher level experience with a Senior Architect's curiosity."</i></p>
-  <b>Made with ❤️ by Hasnain Haidar</b>
+  <sub>Build with purpose. Keep learning. Make it better.</sub>
 </div>
